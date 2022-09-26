@@ -1,0 +1,45 @@
+.bg-container {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9, #ffffff);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+.heading {
+  color: white;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 25px;
+}
+.para {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 10px;
+}
+.letters-count {
+  padding: 10px;
+  background-color: white;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 15px;
+  color: #219a6f;
+  width: 150px;
+  height: 40px;
+  border-radius: 10px;
+}
+.image {
+  height: 300px;
+  width: 400px;
+}
+/* .text-container {
+  width: 15%;
+  padding: 15px;
+} */
+.input {
+  color: white;
+  background-color: transparent;
+  border: solid 1px white;
+  border-radius: 5px;
+  outline: none;
+  padding: 5px;
+}
